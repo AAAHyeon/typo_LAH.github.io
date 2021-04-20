@@ -1,0 +1,31 @@
+a {
+  display: inline-block;
+  color:#ffffff;
+}
+nav a:hover {
+  -webkit-animation: zoom .3s;
+  animation: zoom .3s;
+}
+
+
+
+.et a:hover {
+  color:#0040FF;
+}
+
+
+.kt a:hover {
+  color:#FF8000;
+}
+
+
+@-webkit-keyframes zoom {
+  50% {
+    -webkit-transform: scale(1.05);
+  }
+}
+@keyframes zoom {
+  50% {
+    transform: scale(1.05);
+  }
+}

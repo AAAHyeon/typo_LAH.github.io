@@ -1,0 +1,86 @@
+body img {
+  object-fit: cover;
+  width:100%;
+}
+.drop li {
+display:inline-block;
+width:25%;
+
+}
+
+#dropmargin {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.drop {
+
+  margin: 0 auto;
+  height: 150px;
+  padding-top: 450px;
+  width:80%;
+}
+
+.ave1 img {
+  margin-top: 20px;
+}
+
+.drop a {
+  color: black;
+}
+
+.c1 {
+  margin: 0 auto;
+  width: 80%;
+}
+
+.c2 {
+  margin: 0 auto;
+  width: 80%;
+}
+
+.c3 {
+  margin: 0 auto;
+  width: 80%;
+}
+
+.con{
+  width:100%;
+
+}
+
+.con img {
+  width:100%;
+  object-fit: cover;
+}
+
+.con_1 {
+  display: none;
+}
+
+.con_2 {
+  display: none;
+}
+.con_3 {
+  display: none;
+}
+
+.cloes {
+  left: 90%;
+  top: 90%;
+  position: fixed;
+  z-index: 9000;
+  text-align: center;
+}
+.cloes h3 {
+  font-size: 24px;
+}
+
+.cloes h3:hover {
+  font-size: 30px;
+}
+
+#c3gif {
+  width:100%;
+  object-fit: cover;
+
+}
